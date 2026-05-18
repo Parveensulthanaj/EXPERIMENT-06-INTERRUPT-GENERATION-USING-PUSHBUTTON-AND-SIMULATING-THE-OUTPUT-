@@ -322,7 +322,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of proteus  :
 ### OFF:
  <img width="1920" height="1080" alt="pmc6 2" src="https://github.com/user-attachments/assets/a4299f4b-664c-44bb-bf20-9f1af2ff0742" />
-### ON:
+## ON:
  <img width="1920" height="1080" alt="pmc6 1" src="https://github.com/user-attachments/assets/06f35745-5a24-4135-a840-cf34647e6694" />
 
  
